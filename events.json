@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "JavaScript",
+    "starredAt": "2026-08-24",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "repository": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "starredAt": "2026-08-18",
+    "url": "https://github.com/torvalds/linux"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "starredAt": "2026-08-11",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repository": "github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "starredAt": "2026-08-03",
+    "url": "https://github.com/github/docs"
+  }
+]
